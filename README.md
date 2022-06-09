@@ -1,6 +1,6 @@
 # Gezi
  
-![game.gif](https://acilyazilim/gezi.gif)
+![gezi.gif](https://acilyazilim/gezi.gif)
  
 ###### Batuhan Küçükarslan 1190505052  
 ###### Sefa Tankal 1190505057
